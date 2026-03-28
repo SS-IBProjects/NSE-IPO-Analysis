@@ -5,8 +5,11 @@ This project presents a detailed IPO analysis of the National Stock Exchange of 
 ### 📌 Investment Thesis
 
 • Market leader with dominant share in derivatives segment
+
 • Highly profitable, asset-light business model
+
 • Strong operating leverage and scalability
+
 • Structural growth driven by increasing retail participation in capital markets
 
 ### 📈 Financial Highlights
