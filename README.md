@@ -4,10 +4,10 @@ This project presents a detailed IPO analysis of the National Stock Exchange of 
 
 ### 📌 Investment Thesis
 
-- Market leader with dominant share in derivatives segment
-- Highly profitable, asset-light business model
-- Strong operating leverage and scalability
-- Structural growth driven by increasing retail participation in capital markets
+• Market leader with dominant share in derivatives segment
+• Highly profitable, asset-light business model
+• Strong operating leverage and scalability
+• Structural growth driven by increasing retail participation in capital markets
 
 ### 📈 Financial Highlights
 
@@ -19,16 +19,16 @@ This project presents a detailed IPO analysis of the National Stock Exchange of 
 
 ### 📊 Valuation
 
-- Methodology: Comparable Company Analysis
-- Peer: BSE Ltd
-- Implied P/E Multiple: 35–40x
+• Methodology: Comparable Company Analysis
+• Peer: BSE Ltd
+• Implied P/E Multiple: 35–40x
 
 ### 👉 Valuation Range: ₹4.5 – ₹5.8 Lakh Cr
 
 ### ⚠️ Key Risks
-- Regulatory overhang and past delays
-- Dependence on trading volumes
-- Market cyclicality and volatility
+• Regulatory overhang and past delays
+• Dependence on trading volumes
+• Market cyclicality and volatility
 
 ### 💡 Key Insight
 
@@ -39,12 +39,12 @@ The National Stock Exchange is not a typical company. It operates core financial
 ### 👉 Subscribe (Long-Term Investment Horizon)
 
 ### 📂 Files Included
-- NSE IPO Analysis Presentation (PPT)
-- Financial Model & Valuation (Excel)
+• NSE IPO Analysis Presentation (PPT)
+• Financial Model & Valuation (Excel)
 
 ### 🧠 Skills Demonstrated
 
-IPO Analysis
-Comparable Valuation
-Financial Modeling
-Market Research
+• IPO Analysis
+• Comparable Valuation
+• Financial Modeling
+• Market Research
