@@ -7,11 +7,12 @@ Market leader with dominant share in derivatives segment
 Highly profitable, asset-light business model
 Strong operating leverage and scalability
 Structural growth driven by increasing retail participation in capital markets
-📈 Financial Highlights
+•	📈 Financial Highlights
 Year	Revenue (₹ Cr)	PAT (₹ Cr)
 2023	15,000	9,000
 2024	17,500	10,500
 2025	19,200	12,000
+
 📊 Valuation
 Methodology: Comparable Company Analysis
 Peer: BSE Ltd
